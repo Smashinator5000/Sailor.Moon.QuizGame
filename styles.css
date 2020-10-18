@@ -1,0 +1,10 @@
+body {
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6301c96a-cfea-4ad9-9a0b-606b97de142f/d5lizfj-6d057474-2b75-4354-bbe3-414030350566.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNjMwMWM5NmEtY2ZlYS00YWQ5LTlhMGItNjA2Yjk3ZGUxNDJmXC9kNWxpemZqLTZkMDU3NDc0LTJiNzUtNDM1NC1iYmUzLTQxNDAzMDM1MDU2Ni5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.bfBW7y0BP8LlTo89iNtZz1XbsRuhZUcxwDwlZLkfspk");
+}
+
+h1 {
+  text-align: center;
+  font-family: "Lemonada", cursive;
+  color: yellow;
+  text-shadow: 2px 0 black;
+}
