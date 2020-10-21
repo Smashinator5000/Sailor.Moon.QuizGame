@@ -148,7 +148,7 @@ function get(x) {
         get("game-progress").innerHTML = "<h2>quiz score</h2>";
         game.innerHTML =
           Math.round((100 * rightAnswers) / quizQuestions.length) + "%";
-        get("timer").setAttribute("style", "display: none"); //hides timer
+        get("timer").setAttribute("style", "display: none"); 
         get("input-initials").setAttribute("style", "text-align: center");
         get("save-results").setAttribute("style", "text-align: center");
         return false;
